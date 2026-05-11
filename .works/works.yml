@@ -1,0 +1,6 @@
+# Ever Works configuration for this Work.
+# Source of truth for fields the platform reads from the data repo.
+# See https://docs.ever.works for the full schema.
+
+deployProvider: k8s
+
